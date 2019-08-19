@@ -1,0 +1,1 @@
+# MATLAB-script-for-obtaining-market-equilibrium-of-multimodal-design
